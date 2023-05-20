@@ -1,0 +1,35 @@
+Afgan Hound
+Australian Terrier
+Border Collie
+Bouvier des Flandres
+Clumber Spaniel
+Collie
+Dalmatian
+Doberman
+English Springer
+Wire Fox Terrier
+French Bulldog
+German Shepherd
+Giant Schnauzer
+Golden Retiver
+Irish Setter
+Komondor
+Kuvasz
+Maltese Dog
+Old English Sheepdog
+Papillon
+Pomeranian
+Pug
+Rottweiler
+Saluki
+Schipperke
+Scottish Deerhund
+Siberian Husky
+Soft Coated Wheaten Terrier
+Standard Poodle
+Tibetan Terrier
+Tibetan Mastiff
+Vizsla
+Welsh Springer Spaniel
+Whippet
+Yorkshire Terrier
